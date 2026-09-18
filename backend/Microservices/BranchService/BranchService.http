@@ -1,0 +1,6 @@
+@BranchService_HostAddress = http://localhost:5270
+
+GET {{BranchService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
